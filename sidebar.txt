@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ddo:home|Door43 (ddo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ddo|d43-ddo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ddo/archive/master.zip|d43-ddo.zip]]
+
+**Recent Changes**
+{{changes>ns = ddo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ddo|Ethnologue data]]
+
